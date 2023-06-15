@@ -45,7 +45,7 @@ Aqui estão alguns recursos úteis para ajudá-lo a concluir o desafio:
 
 Para ajudá-lo a visualizar o resultado final esperado, aqui está um exemplo do que você pode criar:
 
-![Exemplo do Desafio de Responsividade do Discord](https://im.ezgif.com/tmp/ezgif-1-691d3d5654.gif)
+[Exemplo](https://im.ezgif.com/tmp/ezgif-1-691d3d5654.gif)
 
 ## Conclusão
 
